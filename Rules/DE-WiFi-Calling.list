@@ -1,10 +1,6 @@
-# === 德国移动运营商 (German Carriers) ===
-
-# --- O2 Germany (Telefónica) ---
-# 涵盖了 O2 及其旗下子品牌 (如 ALDI Talk, Blau 等) 的核心网段
+# O2 DE (Telefónica)
 IP-CIDR, 62.52.0.0/14, no-resolve
 IP-CIDR, 213.20.0.0/16, no-resolve
 
-# --- Vodafone Germany ---
-# 沃达丰德国移动网络
+# 沃达丰 (Vodafone DE)
 IP-CIDR, 139.7.0.0/16, no-resolve
