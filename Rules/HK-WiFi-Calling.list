@@ -1,0 +1,8 @@
+# 香港通用 (MCC 454)
+DOMAIN-KEYWORD,mcc454
+
+# CSL & HK Carriers
+DOMAIN,csl.prod.ondemandconnectivity.com
+DOMAIN,hhk.prod.ondemandconnectivity.com
+DOMAIN,snr.prod.ondemandconnectivity.com
+IP-CIDR,107.178.224.0/19,no-resolve
