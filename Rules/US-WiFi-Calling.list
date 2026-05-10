@@ -1,3 +1,6 @@
+# US Generic
+DOMAIN-KEYWORD,mcc310
+
 # AT&T
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,att.net
@@ -33,6 +36,3 @@ DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,mzstatic.com
-
-# US Generic
-DOMAIN-KEYWORD,mcc310
